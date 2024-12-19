@@ -5,15 +5,15 @@
 
 ## About
 
-This module introduces the foundation blocks of cybersecurity. An introduction to threats, vulnerabilities, risks, and the CIA triad are discussed. Real life examples are shared to provide a springboard for thinking about cybersecurity. 
+This module introduces the foundations of cybersecurity. Threats, vulnerabilities, risks, and the CIA triad are discussed, and real-life examples provide a springboard for thinking about cybersecurity.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Understanding Security Fundamentals](./understanding-security-fundamentals/README.md) | 15 min | CIA Triad, risks, threats, and vulnerabilities               |
-| [Real-world Threats and Protection](./real-world-threats-and-protection/README.md) | 15 min | Real world security examples and frequent attack types                |
-| **Total content**                                   | 30 min |                                     |
+| [Understanding Security Fundamentals](./understanding-security-fundamentals/README.md) | 15 min | The CIA Triad, risks, threats, and vulnerabilities.     |
+| [Real-world Threats and Protection](./real-world-threats-and-protection/README.md)     | 15 min | Real-world security examples and frequent attack types. |
+| **Total content**                                                                      | 30 min |                                                         |
 
 ## References
 
@@ -27,7 +27,7 @@ This module introduces the foundation blocks of cybersecurity. An introduction t
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-cybersecurity/canvas-landing-pages/tktk-course-acronym.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-cybersecurity/canvas-landing-pages/itb.html)
 - [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-cybersecurity/canvas-landing-pages/fallback.html)
 
 ### Resources
