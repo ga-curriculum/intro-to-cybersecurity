@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Intro to Cybersecurity</span>
-  <span class="subhead">Real-world Threats and Protection</span>
+  <span class="subhead">Real-World Threats and Protection</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to identify common cybersecurity threats and implement basic protective measures to secure their digital assets in real-world scenarios.

@@ -10,7 +10,7 @@ understandingSecurityFundamentals = new Template.Microlesson {
 }
 
 realWorldThreatsAndProtection = new Template.Microlesson {
-  friendlyName = "Real-world Threats and Protection"
+  friendlyName = "Real-World Threats and Protection"
   dirName = "real-world-threats-and-protection"
   type = "Content"
   videoUrl = ""

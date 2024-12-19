@@ -12,7 +12,7 @@ This module introduces the foundations of cybersecurity. Threats, vulnerabilitie
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
 | [Understanding Security Fundamentals](../understanding-security-fundamentals/README.md) | 15 min | The CIA Triad, risks, threats, and vulnerabilities.     |
-| [Real-world Threats and Protection](../real-world-threats-and-protection/README.md)     | 15 min | Real-world security examples and frequent attack types. |
+| [Real-World Threats and Protection](../real-world-threats-and-protection/README.md)     | 15 min | Real-world security examples and frequent attack types. |
 | **Total content**                                                                       | 30 min |                                                         |
 
 ## References
