@@ -59,6 +59,8 @@ Let's dive into each:
 
 ## Key terms
 
+Let's cover some key terms. We'll start with a lightning round and then dive into some deeper topics.
+
 1. *Assets*: What you're protecting. Examples include personal info, photos, emails, banking details, and passwords.
 2. *Vulnerabilities*: These are where bad actors might get in. Examples include outdated software, weak passwords, unpatched systems, and unlocked devices.
 3. *Threats*: Accounts for what could go wrong. Examples include hackers, scammers, natural disasters, and human error.
@@ -68,4 +70,44 @@ Let's dive into each:
 
    In the real world, this might look something like an unlocked door (vulnerability) at the museum that is used by robbers (bad actors) to steal (threat) artifacts (assets) from the museum.
 
-   The risk level may be dependent upon where the museum is located, the value of the artifacts, and the other safeguards already in place.
+   The risk level may depend upon where the museum is located, the value of the artifacts, and the other safeguards already in place.
+
+> 💡 Connect what we've discussed so far with the below terms as we go!
+
+### Authentication and authorization
+
+![Authentication and authorization visualized.](./assets/authentication-authorization.png)
+
+These terms are often bundled together, but they cover different aspects of security.
+
+- **Authentication**: Deals with verifying a user's or device's identity to ensure they are who they say they are. Common methods include passwords, biometrics, MFA (multi-factor authentication), and security tokens like passkeys.
+- **Authorization**: Determines what a user or device can access after they've been authenticated. Authorization is often managed through RBAC (role-based access control), where permissions are assigned based on a person's role within an organization.
+
+In short, authentication is about proving who you are, while authorization is about what you can do once you have proven your identity (or even before you've proven your identity).
+
+### Encryption
+
+Encryption is the process of converting data into a code that unauthorized parties can't be read. There are two main types of encryption:
+
+- **Asymmetric encryption**: Uses two keys, a public key to encrypt data and a private key to decrypt it. The private key must be kept secret, but the public key can be shared with anyone. The keys are mathematically related, but deriving the private key from the public key is infeasible.
+- **Symmetric encryption**: Uses the same key to encrypt and decrypt data. Everyone who needs to encrypt or decrypt the data must have the same key, but this key must also be kept secret, making it more challenging to manage. This makes their use less common.
+
+Encryption protects data in transit (like an email message or online shopping) and at rest (like files stored on a hard drive).
+
+Several types of encryption algorithms are used. The most common for symmetric encryption is the AES (Advanced Encryption Standard), notable for being adopted widely by the U.S. government. The most common for asymmetric encryption is RSA (Rivest-Shamir-Adleman). It's notable for being the first algorithm to allow secure communication between two parties without a shared secret. RSA is used in the majority of secure communication on the internet.
+
+### Incident response
+
+![The steps of incident response.](./assets/incident-response.png)
+
+When a security breach or cyberattack occurs, responding quickly, effectively, and systematically is necessary. Incident response aims to handle the aftermath of an event in a way that limits damage, reduces recovery time, and minimizes costs (be they material costs or related to the loss of data or even reputation).
+
+By having an incident response plan in place, the right people can be organized and deployed quickly. The most effective plans will even allow them to take mostly predefined actions rather than having to come up with a response while under pressure. This can prevent a situation from spiraling out of control.
+
+#### Key steps in incident response
+
+1. **Detection**: Identify that an incident has occurred.
+2. **Containment**: Limit the spread of the incident.
+3. **Eradication**: Remove the cause of the incident.
+4. **Recovery**: Restore normal operations. Restore any affected systems and ensure no threat remains.
+5. **Lessons learned**: Document the incident and the response taken. Think critically about what worked and what didn't. Use this info to refine your response plans and prevent future incidents before they start.
